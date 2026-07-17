@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">BMK AGRI - Sewa Alat Berat dan Mesin Pertanian</title>
+  <desc id="desc">Gambar preview BMK AGRI untuk dibagikan melalui WhatsApp dan media sosial.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f8faf5"/>
+      <stop offset="1" stop-color="#e1eed9"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="13" flood-color="#143a26" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#background)"/>
+  <rect width="1200" height="18" fill="#1f5b34"/>
+  <rect y="618" width="1200" height="12" fill="#8db737"/>
+  <circle cx="1110" cy="-25" r="180" fill="#d7e8ca"/>
+  <circle cx="1150" cy="555" r="130" fill="#eed78f"/>
+
+  <image href="logo-bmk-agri.svg" x="52" y="55" width="520" height="520" preserveAspectRatio="xMidYMid meet" filter="url(#shadow)"/>
+
+  <rect x="650" y="120" width="485" height="60" rx="30" fill="#1f5b34"/>
+  <text x="892.5" y="158" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="0.4">SEWA ALAT BERAT &amp; PERTANIAN</text>
+
+  <text x="650" y="272" fill="#153f28" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">BMK AGRI</text>
+  <text x="650" y="334" fill="#2e4937" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">Alat tangguh untuk</text>
+  <text x="650" y="378" fill="#74a52f" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">hasil maksimal.</text>
+
+  <text x="650" y="448" fill="#4f6053" font-family="Arial, Helvetica, sans-serif" font-size="23">
+    <tspan x="650" dy="0">Solusi penyewaan alat berat dan mesin</tspan>
+    <tspan x="650" dy="34">pertanian untuk pekerjaan lahan,</tspan>
+    <tspan x="650" dy="34">perkebunan, dan proyek.</tspan>
+  </text>
+
+  <text x="650" y="558" fill="#1f5b34" font-family="Arial, Helvetica, sans-serif" font-size="22">rendyariawan.github.io/alat-berat/</text>
+</svg>
